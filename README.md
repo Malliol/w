@@ -10,4 +10,6 @@ https://www.mgnhost.ru/vds.php
 
 ![image](https://user-images.githubusercontent.com/90931685/181714789-f0c54e2b-d5c4-4d9e-bd0f-564e57c44232.png)
 
+и после чего надо пейти на сам сервер 
 
+и там устоновить 
